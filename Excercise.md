@@ -9,14 +9,14 @@
 - Number, parseInt(), isNaN(), toFixed(), template literals, String.prototype.replaceAll(), padStart(), padEnd(), string interpolation.
 
 ### Practice Questions
-1. Write a program to round a floating number to 2 decimals using toFixed() and display it with a currency symbol using template literals.  
-2. Get a user’s full name and display it in uppercase without extra spaces using trim() and toUpperCase().  
+1. Write a program to round a floating number to 2 decimals and display it with a currency symbol using template literals.  
+2. Get a user’s full name and display it in uppercase without extra spaces.  
 3. Format a receipt like:`Item: Keyboard
-Price: $250.00`
-(Use string interpolation and padEnd() for alignment.)  
+Price: Rs 250.00`
+(padEnd() for alignment.)  
 4. Convert "123abc" safely to a number and handle NaN using Number.isNaN().  
 5. Create a function that takes a list of product prices and returns the total with commas (e.g., 1,234.56).  
-6. Use replaceAll() to clean unwanted characters from a text input like "hello@@world@@!".  
+6. Clean unwanted characters from a text input like "hello@@world@@!".  
 
 ---
 
