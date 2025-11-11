@@ -3,7 +3,7 @@
 
 ---
 
-## Group 1 — Numbers & Strings
+## Numbers & Strings
 
 **Core + ES6–ES2021 Concepts:**
 - Number, parseInt(), isNaN(), toFixed(), template literals, String.prototype.replaceAll(), padStart(), padEnd(), string interpolation.
@@ -20,7 +20,7 @@ Price: $250.00`
 
 ---
 
-## Group 2 — Math & Loops
+## Math & Loops
 
 **Core + ES6–ES2021 Concepts:**
 - Math.random(), Math.max(), Math.min(), Math.trunc(), for...of, for...in, forEach(), continue, break.
@@ -35,7 +35,7 @@ Price: $250.00`
 
 ---
 
-## Group 3 — Operators & Conditions
+## Operators & Conditions
 
 **Core + ES6–ES2021 Concepts:**
 - Arithmetic, assignment, comparison, logical, ternary (? :), ??, optional chaining (?.).
@@ -50,7 +50,7 @@ Price: $250.00`
 
 ---
 
-## Group 4 — Date, Null, Undefined, BigInt, Symbol
+## Date, Null, Undefined, BigInt, Symbol
 
 **Core + ES6–ES2021 Concepts:**
 - Date, timestamp operations, optional chaining, BigInt, Symbol, nullish coalescing, timezone formatting.
@@ -66,7 +66,7 @@ Price: $250.00`
 
 ---
 
-## Group 5 — Objects
+## Objects
 
 **Core + ES6–ES2021 Concepts:**
 - Object destructuring, shorthand property names, spread & rest in objects, Object.keys(), Object.values(), Object.entries(), Object.fromEntries(), optional chaining.
@@ -82,7 +82,7 @@ Price: $250.00`
 
 ---
 
-## Group 6 — Arrays
+## Arrays
 
 **Core + ES6–ES2021 Concepts:**
 - map(), filter(), reduce(), find(), findIndex(), flat(), flatMap(), spread [...], rest ...args, destructuring, Array.from(), includes(), at() (ES2022).
