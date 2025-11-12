@@ -186,70 +186,70 @@ Each object in the array should have the following properties:
 **Core + ES6–ES2021 Concepts:**
 - map(), filter(), reduce(), find(), findIndex(), flat(), flatMap(), spread [...], rest ...args, destructuring, Array.from(), includes(), at() (ES2022).
 ### Part 1
-# 🧮 JavaScript Array Questions – 
-# Based on numbers = [1, 2, 36, 7]
+## JavaScript Array Questions – 
+## Based on numbers = [1, 2, 36, 7]
 
 ---
 
-### **1️⃣ Access First and Last Elements**
+### **1. Access First and Last Elements**
 
 Write a JavaScript program to access the **first** and **last** elements of the `numbers` array.
 
 ---
-### **2️⃣ Add Elements**
+### **2. Add Elements**
 
 Write a JavaScript program to **add a new number** at the **end** and **beginning** of the `numbers` array.
 
 ---
-### **3️⃣ Remove Elements**
+### **3. Remove Elements**
 
 Write a JavaScript program to **remove the first and last elements** from the `numbers` array.
 
 ---
 
-### **4️⃣ Loop Through Array**
+### **4. Loop Through Array**
 
 Write a JavaScript program to **loop through the `numbers` array** and print each element using a `for` loop.
 
 ---
 
-### **5️⃣ Use forEach()**
+### **5. Use forEach()**
 
 Write a JavaScript program to **loop through the `numbers` array** using the **`forEach()`** method.
 
 ---
 
-### **6️⃣ Find Maximum and Minimum**
+### **6.  Find Maximum and Minimum**
 
 Write a JavaScript program to find the **maximum** and **minimum** values in the `numbers` array.
 
 ---
 
-### **7️⃣ Check for Element**
+### **7. Check for Element**
 
 Write a JavaScript program to **check whether the number `36` exists** in the `numbers` array.
 
 ---
 
-### **8️⃣ Sum of Elements**
+### **8. Sum of Elements**
 
 Write a JavaScript program to calculate the **sum of all numbers** in the `numbers` array.
 
 ---
 
-### **9️⃣ Sort Array**
+### **9. Sort Array**
 
 Write a JavaScript program to **sort the `numbers` array** in ascending order.
 
 ---
 
-### **🔟 Reverse Array**
+### **10. Reverse Array**
 
 Write a JavaScript program to **reverse the `numbers` array**.
 
 ---
 
-### **1️⃣1️⃣ Filter Numbers**
+### **11. Filter Numbers**
 
 Write a JavaScript program to **create a new array** containing only numbers **greater than 5** from the `numbers` array.
 
