@@ -116,7 +116,7 @@ Add a new property **`email`** with the value `"john@example.com"` to the `perso
 
 ### **6. Remove a Property**
 
-Write a JavaScript program to **remove a property** from an object using the `delete` keyword.  
+### Write a JavaScript program to **remove a property** from an object using the `delete` keyword.  
 ---
 
 ### **7. Check Property Existence**
