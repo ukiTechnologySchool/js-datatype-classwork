@@ -66,13 +66,13 @@ Price: Rs 250.00`
 
 ---
 
-## Objects
+# Objects
 
 **Core + ES6–ES2021 Concepts:**
 - Object destructuring, shorthand property names, spread & rest in objects, Object.keys(), Object.values(), Object.entries(), Object.fromEntries(), optional chaining.
 
-### Practice Questions
-# Part 1
+## Practice Questions
+## Part 1
 ---
 ### **1.How do you create an empty JavaScript object?**
 
@@ -170,7 +170,7 @@ Each object in the array should have the following properties:
 | age       | number | 21             |
 | gpa       | number | 3.7            |
 
-# Part 2
+## Part 2
 1. Create an object representing a student and destructure name and age.  
 2. Use shorthand syntax to create an object inside a function.  
 3. Clone and update an object using the spread operator {...}.  
