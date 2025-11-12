@@ -72,6 +72,105 @@ Price: Rs 250.00`
 - Object destructuring, shorthand property names, spread & rest in objects, Object.keys(), Object.values(), Object.entries(), Object.fromEntries(), optional chaining.
 
 ### Practice Questions
+# Part 1
+---
+### **1.How do you create an empty JavaScript object?**
+
+Write a JavaScript statement to create an empty object named `person`.
+
+---
+
+### **2. Create an Object with Properties and Methods**
+
+Write a JavaScript program to create an object called **`person`** with properties **`name`** and **`age`**.  
+Then, create a **function inside the object** called **`IntroduceYou`** that takes a `person` object as a parameter and logs a message to the console.  
+
+**Example Output:**
+```
+Hi, I am John and I am 25 years old.
+```
+
+---
+
+### **3. Create a Method that Greets Students**
+
+Create a function inside the **`person`** object called **`greetStudent`** that takes a `student` object as a parameter and logs this message:  
+```
+Hello <person name>, Welcome to the Coding School!
+```
+
+---
+
+### **4. Access Object Properties**
+
+Write a JavaScript program to access object properties using **dot notation** and **bracket notation**.  
+
+---
+
+### **5. Add a New Property**
+
+Write a JavaScript program to **add a new property** to an existing object.  
+Add a new property **`email`** with the value `"john@example.com"` to the `person` object.
+
+---
+
+### **6. Remove a Property**
+
+Write a JavaScript program to **remove a property** from an object using the `delete` keyword.  
+---
+
+### **7. Check Property Existence**
+
+Write a JavaScript program to **check whether a property exists** in an object using the `in` operator or `hasOwnProperty()` method.
+
+**Example:**
+```js
+console.log("name" in person);
+```
+
+---
+
+### **8. Merge Two Objects**
+
+Create two objects, **`student`** and **`course`**, and merge them into a new object named **`studentCourse`** using the **spread operator** or **`Object.assign()`**.
+
+---
+
+### **9. Check for a Specific Property**
+
+Write a program to check if an object has a specific property named **`address`**.  
+If it exists, log `'Address is there'`, otherwise log `'Address not found'`.
+
+**Example:**
+```js
+if ("address" in person) {
+  console.log("Address is there");
+} else {
+  console.log("Address not found");
+}
+```
+
+---
+
+### **10. Convert Object to JSON**
+
+Create an object **`book`** with properties `title`, `author`, and `year`.  
+Then convert it into a **JSON string**.
+
+---
+
+### **11. Array of Objects**
+
+Create an **array of objects** called **`students`**.  
+Each object in the array should have the following properties:
+
+| Property | Type   | Example Value |
+|-----------|--------|----------------|
+| name      | string | "Asha"         |
+| age       | number | 21             |
+| gpa       | number | 3.7            |
+
+# Part 2
 1. Create an object representing a student and destructure name and age.  
 2. Use shorthand syntax to create an object inside a function.  
 3. Clone and update an object using the spread operator {...}.  
