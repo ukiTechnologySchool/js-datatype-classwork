@@ -1,55 +1,25 @@
-# JavaScript Intermediate Exercises – Student Version
+# JavaScript Intermediate Exercises 
 
 ## 1. Object Exercise – Employee
 
-We have the employee object:
+``We have the employee object:
 
-```js
-const employee = {
-  name: "Asha",
-  age: 25,
-  department: "IT",
-  address: {
-    city: "Jaffna",
-    zip: 40000
-  },
-  skills: ["JavaScript", "React", "Node.js"]
-};
 Step 1: Access employee’s city using dot notation.
-
 Step 2: Access zip code using bracket notation.
-
 Step 3: Destructure the object to extract name and department. Log both values.
-
 Step 4: Add a method called introduce that prints:
 "Hi, my name is <name> and I work in <department>."
-
 Step 5: Add a new property email with the value "asha@company.com".
-
 Step 6: Loop through the skills array inside the object and print each skill.
-
 Step 7: Use Object.keys() and Object.values() to print all property names and values of employee.
 
 2. Array Exercise – Students Scores
 We have the students array:
 
-js
-Copy code
-let students = [
-  { name: "Asha", score: 85 },
-  { name: "Karan", score: 92 },
-  { name: "Lina", score: 78 },
-  { name: "Niro", score: 88 }
-];
 Step 1: Loop through the array and print all student names.
-
 Step 2: Use map() to create a new array of scores only.
-
 Step 3: Use filter() to create a new array of students who scored more than 80.
-
 Step 4: Use reduce() to calculate the average score of all students.
-
 Step 5: Add a new student object { name: "Maya", score: 95 } to the array.
-
 Step 6: Use forEach() to print each student’s name and score in the format:
-"Name: <name>, Score: <score>"
+"Name: <name>, Score: <score>"``
