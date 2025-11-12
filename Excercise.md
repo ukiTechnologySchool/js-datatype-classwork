@@ -110,7 +110,7 @@ Write a JavaScript program to access object properties using **dot notation** an
 ### **5. Add a New Property**
 
 Write a JavaScript program to **add a new property** to an existing object.  
-Add a new property **`email`** with the value `"john@example.com"` to the `person` object.
+Add a new property **`email`** with the value `"shan@example.com"` to the `person` object.
 
 ---
 
@@ -185,7 +185,76 @@ Each object in the array should have the following properties:
 
 **Core + ES6–ES2021 Concepts:**
 - map(), filter(), reduce(), find(), findIndex(), flat(), flatMap(), spread [...], rest ...args, destructuring, Array.from(), includes(), at() (ES2022).
+### Part 1
+# 🧮 JavaScript Array Questions – 
+# Based on numbers = [1, 2, 36, 7]
 
+---
+
+### **1️⃣ Access First and Last Elements**
+
+Write a JavaScript program to access the **first** and **last** elements of the `numbers` array.
+
+---
+### **2️⃣ Add Elements**
+
+Write a JavaScript program to **add a new number** at the **end** and **beginning** of the `numbers` array.
+
+---
+### **3️⃣ Remove Elements**
+
+Write a JavaScript program to **remove the first and last elements** from the `numbers` array.
+
+---
+
+### **4️⃣ Loop Through Array**
+
+Write a JavaScript program to **loop through the `numbers` array** and print each element using a `for` loop.
+
+---
+
+### **5️⃣ Use forEach()**
+
+Write a JavaScript program to **loop through the `numbers` array** using the **`forEach()`** method.
+
+---
+
+### **6️⃣ Find Maximum and Minimum**
+
+Write a JavaScript program to find the **maximum** and **minimum** values in the `numbers` array.
+
+---
+
+### **7️⃣ Check for Element**
+
+Write a JavaScript program to **check whether the number `36` exists** in the `numbers` array.
+
+---
+
+### **8️⃣ Sum of Elements**
+
+Write a JavaScript program to calculate the **sum of all numbers** in the `numbers` array.
+
+---
+
+### **9️⃣ Sort Array**
+
+Write a JavaScript program to **sort the `numbers` array** in ascending order.
+
+---
+
+### **🔟 Reverse Array**
+
+Write a JavaScript program to **reverse the `numbers` array**.
+
+---
+
+### **1️⃣1️⃣ Filter Numbers**
+
+Write a JavaScript program to **create a new array** containing only numbers **greater than 5** from the `numbers` array.
+
+
+### Part 2
 ### Practice Questions
 1. Create an array of numbers and return only even numbers using filter().  
 2. Find the sum of all numbers using reduce().  
