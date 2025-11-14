@@ -255,14 +255,62 @@ Write a JavaScript program to **create a new array** containing only numbers **g
 
 
 ### Part 2
-### Practice Questions
-1. Create an array of numbers and return only even numbers using filter().  
-2. Find the sum of all numbers using reduce().  
-3. Use find() to locate a student with grade “A”.  
-4. Merge two arrays using the spread operator [...a, ...b].  
-5. Use array destructuring to extract the first two items.  
-6. Flatten a nested array using flat().  
-7. Create a function that accepts a variable number of scores using rest (...scores) and returns the average.  
-8. Check if an element exists in an array using includes().  
-9. Convert a string into an array using Array.from().  
-10. Use .at(-1) to access the last element in an array.  
+
+* Array creation and access
+* forEach(), map(), filter(), reduce(), reduceRight()
+* find(), includes()
+* Spread operator [...], Rest parameter (...args)
+* Destructuring, Nested arrays, flat(), flatMap()
+
+## Practice Questions
+1. Create and Access Arrays
+
+Sample Array: [10, 15, 20, 25, 30]
+
+Access the first and last element.
+
+2. Filter and Find
+
+Sample Array: [10, 15, 20, 25, 30] 2. Filter the array to return only even numbers.
+
+Sample Array:
+
+const students = [
+  { name: 'Alice', grade: 'B' },
+  { name: 'Bob', grade: 'A' },
+  { name: 'Charlie', grade: 'C' }
+];
+
+Find the student with grade "A".
+
+3. Reduce and Sum
+
+Sample Array: [10, 15, 20, 25, 30] 4. Calculate the sum of all numbers using reduce().
+
+4. Spread and Merge
+
+Sample Arrays: [1,2,3] and [4,5,6] 5. Merge the two arrays using the spread operator.
+
+5. Destructuring
+
+Sample Array: [100, 200, 300, 400] 6. Extract the first two elements using destructuring.
+
+6. Nested Arrays
+
+Sample Array: [[1,2],[3,4],[5,6]] 7. Flatten the nested array using flat().
+
+7. Rest Parameter
+
+Create a function average(...scores) that returns the average of any number of scores.
+
+8. Check for Existence
+
+Sample Array: [10, 15, 20, 25, 30] 9. Check if the number 25 exists in the array using includes().
+
+9. String to Array
+
+Sample String: 'HELLO' 10. Convert the string to an array of characters using Array.from().
+
+10. Access Last Element
+
+Sample Array: [5,10,15,20,25] 11. Access the last element using .at(-1).
