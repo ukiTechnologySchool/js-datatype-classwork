@@ -262,7 +262,6 @@ Write a JavaScript program to **create a new array** containing only numbers **g
 * Spread operator [...], Rest parameter (...args)
 * Destructuring, Nested arrays, flat(), flatMap()
 
-## Practice Questions
 1. Create and Access Arrays
 Sample Array: [10, 15, 20, 25, 30]
 Access the first and last element.
