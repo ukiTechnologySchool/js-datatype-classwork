@@ -264,53 +264,41 @@ Write a JavaScript program to **create a new array** containing only numbers **g
 
 ## Practice Questions
 1. Create and Access Arrays
-
 Sample Array: [10, 15, 20, 25, 30]
-
 Access the first and last element.
 
 2. Filter and Find
+Sample Array: [10, 15, 20, 25, 30] 
+Filter the array to return only even numbers.
 
-Sample Array: [10, 15, 20, 25, 30] 2. Filter the array to return only even numbers.
-
+3.Find the student with grade "A".
 Sample Array:
-
 const students = [
   { name: 'Alice', grade: 'B' },
   { name: 'Bob', grade: 'A' },
   { name: 'Charlie', grade: 'C' }
 ];
 
-Find the student with grade "A".
+4. Calculate the sum of all numbers using reduce().
+Sample Array: [10, 15, 20, 25, 30] 
 
-3. Reduce and Sum
+4. Merge the two arrays using the spread operator.
+Sample Arrays: [1,2,3] and [4,5,6] 
 
-Sample Array: [10, 15, 20, 25, 30] 4. Calculate the sum of all numbers using reduce().
+5. Extract the first two elements using destructuring.
+Sample Array: [100, 200, 300, 400] 
 
-4. Spread and Merge
-
-Sample Arrays: [1,2,3] and [4,5,6] 5. Merge the two arrays using the spread operator.
-
-5. Destructuring
-
-Sample Array: [100, 200, 300, 400] 6. Extract the first two elements using destructuring.
-
-6. Nested Arrays
-
-Sample Array: [[1,2],[3,4],[5,6]] 7. Flatten the nested array using flat().
+6. Flatten the nested array using flat().
+Sample Array: [[1,2],[3,4],[5,6]] 
 
 7. Rest Parameter
-
 Create a function average(...scores) that returns the average of any number of scores.
 
-8. Check for Existence
+8. Check if the number 25 exists in the array using includes().
+Sample Array: [10, 15, 20, 25, 30] 
 
-Sample Array: [10, 15, 20, 25, 30] 9. Check if the number 25 exists in the array using includes().
-
-9. String to Array
-
-Sample String: 'HELLO' 10. Convert the string to an array of characters using Array.from().
-
-10. Access Last Element
-
-Sample Array: [5,10,15,20,25] 11. Access the last element using .at(-1).
+9. Convert the string to an array of characters using Array.from().
+Sample String: 'HELLO'
+ 
+10. Access the last element using .at(-1).
+Sample Array: [5,10,15,20,25] 
