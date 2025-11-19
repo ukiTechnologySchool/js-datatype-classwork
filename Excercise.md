@@ -26,13 +26,17 @@ Price: Rs 250.00`
 - Math.random(), Math.max(), Math.min(), Math.trunc(), for...of, for...in, forEach(), continue, break.
 
 ### Practice Questions
-1. Generate 10 random integers between 1 and 100 using Math.random() and Math.floor().  
-2. Find the largest and smallest value in an array using Math.max() and the spread operator.  
-3. Write a for...of loop to calculate the sum of array values.  
-4. Display numbers from 1 to 50 but skip multiples of 5 using continue.  
-5. Use a do...while loop to simulate login attempts until the correct password is entered.  
-6. Create a multiplication table using nested for loops.  
+### Math 
 
+1.  Generate 10 random integers between 1 and 100 using Math.random() and Math.floor().
+2.  Find the largest and smallest value in an array using Math.max() and the spread operator.
+3.  Write JavaScript code to generate a 6-digit OTP using Math.random()
+4.  Write a for...of loop to calculate the sum of array values.
+5.  Display numbers from 1 to 50 but skip multiples of 5 using continue.  
+6.  Use a do...while loop to simulate login attempts until the correct password is entered.  
+7.  Create a multiplication table using nested for loops.  
+
+2.
 ---
 
 ## Operators & Conditions
@@ -58,12 +62,6 @@ Price: Rs 250.00`
 ### Practice Questions
 1. Display current date and time in readable format (YYYY-MM-DD HH:MM:SS).  
 2. Calculate how many days remain until New Year.  
-3. Use BigInt to store a large ID (e.g., transaction number) and perform addition.  
-4. Create two Symbol() values and show that they are unique.  
-5. Demonstrate difference between null and undefined with examples.  
-6. Use Intl.DateTimeFormat to format date according to your locale.  
-7. Store a log entry with timestamp and unique Symbol ID.  
-
 ---
 
 # Objects
