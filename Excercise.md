@@ -35,8 +35,6 @@ Price: Rs 250.00`
 5.  Display numbers from 1 to 50 but skip multiples of 5 using continue.  
 6.  Use a do...while loop to simulate login attempts until the correct password is entered.  
 7.  Create a multiplication table using nested for loops.  
-
-2.
 ---
 
 ## Operators & Conditions
